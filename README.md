@@ -4,9 +4,13 @@
 
 This project is an end-to-end Machine Learning solution developed to predict whether a student is likely to be placed based on academic and behavioral factors. The project follows the complete Machine Learning lifecycle, including data preprocessing, exploratory data analysis (EDA), model training, pipeline integration, and Streamlit deployment.
 
+---
+
 ## Problem Statement
 
 Educational institutions often need to identify students who are likely to secure placements. This project uses Machine Learning techniques to predict student placement status based on various performance indicators such as academic performance, attendance, and study habits.
+
+---
 
 ## Dataset Features
 
@@ -23,6 +27,8 @@ The dataset contains the following features:
 ### Target Variable
 
 - Placement Status
+
+---
 
 ## Project Workflow
 
