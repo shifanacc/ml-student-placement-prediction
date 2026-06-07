@@ -134,13 +134,13 @@ student-placement-prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/student-placement-prediction.git
+git clone https://github.com/shifanacc/ml-student-placement-prediction.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd student-placement-prediction
+cd ml-student-placement-prediction
 ```
 
 Install dependencies:
