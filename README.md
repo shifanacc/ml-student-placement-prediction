@@ -6,6 +6,13 @@ This project is an end-to-end Machine Learning solution developed to predict whe
 
 ---
 
+## Live Application
+
+**Launch Student Placement Predictor**
+
+https://ml-student-placement-prediction-ddozv9dpzat2e8tfvrwnup.streamlit.app/
+
+
 ## Problem Statement
 
 Educational institutions often need to identify students who are likely to secure placements. This project uses Machine Learning techniques to predict student placement status based on various performance indicators such as academic performance, attendance, and study habits.
@@ -195,4 +202,4 @@ Finally, the model was deployed using Streamlit, allowing users to input student
 
 **Shifana**
 
-Machine Learning & Data Analytics Enthusiast
+Data Science Enthusiast
